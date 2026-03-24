@@ -1,7 +1,8 @@
 # Hi, I'm Mikolaj (aka technic)
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=technic404&show_icons=true)
+## Statistics
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technic404&layout=compact)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=technic404&show_icons=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technic404&layout=compact" height="170">
+</div>
